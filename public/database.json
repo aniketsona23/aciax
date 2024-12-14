@@ -1,5 +1,31 @@
 {
   "cse": {
+    "csf213" :{
+      "Course Name" : "Object Oriented Programming",
+      "Comprehensive Exam" :{
+        "2022":"https://drive.google.com/file/d/12NwXtzdypxvlgRaI7npHo8I1elxjAdqL/view?usp=drive_link".
+        "2023":"https://drive.google.com/file/d/18zeaHbPEu4WwA1HR5_ivkLDpA1jh-zl9/view?usp=drive_link"
+      },
+      "Midsemester Exam" :{
+        "2023 QP":"https://drive.google.com/file/d/1b_aY9FfehmPcanID0x5Ev0m5Ugvz85zB/view?usp=drive_link",
+        "2023 Soln":"https://drive.google.com/file/d/1QZRkt2hFFMzgwS97YJFrE17p4GoLa_Gv/view?usp=drive_link"
+      }
+    }
+    "csf215" :{
+      "Course Name" :"Digital Design",
+      "Books":{
+        "Digital Design Morris Mano 4th Edition" : "https://drive.google.com/file/d/18IQ0t0UpdxQFccGZiBAzaign9jCjchWh/view?usp=drive_link"
+      },
+      "Comprehensive Exam":{
+        "2023 QP":"https://drive.google.com/file/d/1KRHRi5_AAbZCwDoFFUpFv1RV8x_Fghl-/view?usp=drive_link",
+        "2023 Sol":"https://drive.google.com/file/d/1fiDeZCi2YQyzvoutdvO6VfWfW51B8jx-/view?usp=drive_link"
+      },
+      "Midsemester Exam" :{
+        "2023 pg-1":"https://drive.google.com/file/d/17rOtYg8VtEFtzcAjviOxEYG2mKzpXEAE/view?usp=drive_link",
+        "2023 pg-2":"https://drive.google.com/file/d/1TsYL3M4D9SM4EJnnJC1vhI3mr437tSNR/view?usp=drive_link"
+      },
+      "Drive":"https://drive.google.com/drive/folders/1uBTNlYOTK9SItxfiHq3bLY4cfT2Y7zIK?usp=drive_link"
+    },
     "csf222" : {
       "Books": {
         "Rosen DM 7th Edition" : "https://github.com/Darelife/booksDB/blob/main/cse/f222/books/Rosen%20Discrete%20Mathematics%20and%20Its%20Applications%207th%20Edition.pdf",
